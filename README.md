@@ -10,6 +10,11 @@ and a SQL schema example.
 2. Clone the repository and run `composer install`.
 3. Configure your database connection in `config/config.php`.
 4. Point your web server to the `public/` directory.
+   For quick local testing you can run:
+
+   ```bash
+   php -S localhost:8000 -t public
+   ```
 
 ## Folder Structure
 
