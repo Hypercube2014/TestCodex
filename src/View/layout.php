@@ -9,6 +9,7 @@
 <body>
     <header>
         <h1>Vehicle Rental</h1>
+
     </header>
     <main>
         <?= $content ?>
