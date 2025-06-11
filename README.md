@@ -4,8 +4,6 @@ This repository contains a basic skeleton for a vehicle rental platform using PH
 The project is structured with a public entry point, simple MVC folders, configuration files,
 and a SQL schema example.
 
-The default home page provides a professional layout with a hero banner and a section
-listing available vehicles.
 
 ## Getting Started
 
@@ -13,11 +11,7 @@ listing available vehicles.
 2. Clone the repository and run `composer install`.
 3. Configure your database connection in `config/config.php`.
 4. Point your web server to the `public/` directory.
-   For quick local testing you can run:
 
-   ```bash
-   php -S localhost:8000 -t public
-   ```
 
 ## Folder Structure
 

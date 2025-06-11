@@ -9,13 +9,7 @@
 <body>
     <header>
         <h1>Vehicle Rental</h1>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="#vehicles">Vehicles</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+
     </header>
     <main>
         <?= $content ?>
